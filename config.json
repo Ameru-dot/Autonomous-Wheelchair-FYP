@@ -1,0 +1,8 @@
+{
+  "serial_port": "/dev/ttyUSB0",
+  "baudrate": 9600,
+  "cam_line": 0,
+  "cam_object": 1,
+  "pid": {"Kp": 0.18, "Ki": 0.00, "Kd": 0.06, "dead_zone_px": 10, "clip": 15},
+  "gui": {"window_title": "Wheelchair Controller", "base_speed": 120}
+}
